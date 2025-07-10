@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Interactiva",
+  "description": "Una calculadora web elegante y funcional construida con React y Tailwind CSS. Realiza operaciones aritméticas básicas con una interfaz de usuario moderna y receptiva.",
+  "requestFramePermissions": []
+}
